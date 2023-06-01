@@ -21,6 +21,7 @@ En este documento se nos habla de la calidad del café, además de la misión y 
 #| warning: false
 #| code-fold: true
 
+
 library(tidyverse)
 library(plotly)
 library(DT)
